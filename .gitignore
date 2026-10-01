@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/ml_urls/
+data/raw_urls.csv
+data/processed_features.csv
+.DS_Store
