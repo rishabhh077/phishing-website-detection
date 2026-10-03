@@ -1,4 +1,4 @@
-# Phishing Website Detection using Machine Learning
+# Phishing Website Detection using Machine Leing
 
 A machine-learning system that classifies a URL as **phishing** or
 **legitimate** using only the URL's own structure — no page visit, no
